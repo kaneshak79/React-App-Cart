@@ -62,9 +62,9 @@ Products are fetched using Axios when the application loads.
 
 Each product displays:
 
-Image
-Title
-Price
+Image,
+Title,
+Price,
 Add to Cart button
 
 🔹 Add to Cart
@@ -86,8 +86,8 @@ Clicking the Cart button opens a modal.
 
 The modal displays:
 
-List of cart items
-Remove button for each item
+List of cart items,
+Remove button for each item,
 Cart becomes empty when all items are removed.
 
 📱 Responsive Design
@@ -137,12 +137,17 @@ This project successfully implements a complete Add to Cart system with modal fu
 It demonstrates strong understanding of:
 
 React hooks (useState, useEffect)
+
 Component communication using props
+
 API integration
+
 Conditional rendering
+
 Responsive UI design
 
 👩‍💻 Author
 
 Kanesha K
+
 ReactJS Developer
