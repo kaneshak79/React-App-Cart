@@ -1,4 +1,5 @@
 🛒 Add to Cart Modal – ReactJS Application
+
 📌 Project Overview
 
 This is a ReactJS-based shopping cart application that fetches product data from the Fake Store API and allows users to add products to a cart using a modal interface.
@@ -16,13 +17,21 @@ Maintain clean and reusable component structure
 🚀 Features
 
 ✔ Fetch products from Fake Store API
+
 ✔ Display product image, title, and price
+
 ✔ Add products to cart
+
 ✔ Alert message for duplicate items
+
 ✔ Cart item count displayed in Navbar
+
 ✔ Modal popup to view cart items
+
 ✔ Remove items from cart
+
 ✔ Responsive design for mobile & desktop
+
 ✔ Clean and modular code structure
 
 🧑‍💻 Tech Stack Used:
@@ -39,20 +48,6 @@ React Icons	UI icons
 Fake Store API
 
 https://fakestoreapi.com/products
-
-🗂️ Project Folder Structure
-src/
-│
-├── components/
-│   ├── Navbar.jsx
-│   ├── Navbar.css
-│   ├── Products.jsx
-│   ├── Products.css
-│   ├── CartModal.jsx
-│   ├── CartModal.css
-│
-├── App.jsx
-├── main.jsx
 
 ⚙️ Functional Description
 
