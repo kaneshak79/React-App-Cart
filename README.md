@@ -37,10 +37,15 @@ Maintain clean and reusable component structure
 🧑‍💻 Tech Stack Used:
 
 ReactJS	Frontend framework
+
 JavaScript (ES6)	Application logic
+
 HTML5	Structure
+
 CSS3	Styling and layout
+
 Axios	API requests
+
 React Icons	UI icons
 
 📡 API Used
@@ -52,25 +57,35 @@ https://fakestoreapi.com/products
 ⚙️ Functional Description
 
 🔹 Product Listing
+
 Products are fetched using Axios when the application loads.
+
 Each product displays:
+
 Image
 Title
 Price
 Add to Cart button
 
 🔹 Add to Cart
+
 Clicking Add to Cart adds the product to the cart.
+
 If the product already exists, an alert is shown:
+
 Item already added to the cart
 
 🔹 Cart Count
+
 Navbar displays the number of items currently in the cart.
 Count updates dynamically when items are added or removed.
 
 🔹 Cart Modal
+
 Clicking the Cart button opens a modal.
+
 The modal displays:
+
 List of cart items
 Remove button for each item
 Cart becomes empty when all items are removed.
@@ -78,33 +93,49 @@ Cart becomes empty when all items are removed.
 📱 Responsive Design
 
 Desktop: Horizontal product card layout
+
 Mobile: Vertical stacked layout
+
 CSS media queries ensure smooth responsiveness
 
 ▶️ How to Run the Project
 
 Clone the repository:
+
 git clone <repository-url>
+
 Navigate to the project folder:
+
 cd project-folder
+
 Install dependencies:
+
 npm install
+
 Run the application:
+
 npm run dev
 
 🔮 Future Enhancements
 
 Show product image and price inside cart modal
+
 Disable Add to Cart button for already added items
+
 Add total cart price calculation
+
 Add smooth animations to modal
+
 Implement Tailwind CSS styling
+
 Add localStorage support for cart persistence
 
 ✅ Conclusion
 
 This project successfully implements a complete Add to Cart system with modal functionality using ReactJS.
+
 It demonstrates strong understanding of:
+
 React hooks (useState, useEffect)
 Component communication using props
 API integration
