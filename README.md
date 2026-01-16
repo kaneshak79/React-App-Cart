@@ -133,17 +133,10 @@ Add localStorage support for cart persistence
 ✅ Conclusion
 
 This project successfully implements a complete Add to Cart system with modal functionality using ReactJS.
-
-It demonstrates strong understanding of:
-
-React hooks (useState, useEffect)
-
-Component communication using props
-
-API integration
-
-Conditional rendering
-
+It demonstrates strong understanding of React hooks (useState, useEffect),
+Component communication using props,
+API integration,
+Conditional rendering,
 Responsive UI design
 
 👩‍💻 Author
